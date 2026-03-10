@@ -1,0 +1,25 @@
+body{
+	background-color:grey;
+	}
+header{
+	text-align: center;
+	background-color: pink;
+	border: black solid 5px;
+	border-radius: 15px;
+	
+}
+a{
+	padding: 30px;
+	transition:1s;
+}
+a:hover{
+	background-color: #B6B6B6;
+	padding: 20px;
+	border-radius: 15px;
+}
+p{
+	color:black;
+}
+h2{
+	color:black;
+}
